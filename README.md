@@ -1,2 +1,2 @@
 # SDL2-Tutorial-Series
-SDL2 framework Tutorial in C++.
+SDL2 Tutorial in C++.
